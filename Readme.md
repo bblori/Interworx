@@ -5,7 +5,7 @@ Open the terminal
 Create a file called install.sh with the following command:
     vi install.sh
 
-Insert the install.sh content and save and exit with command:
+Press i to Insert the install.sh content, to save and exit use this command:
     :wq
 
 Change the install.sh file permission with this command:
