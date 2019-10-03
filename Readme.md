@@ -2,7 +2,7 @@
 
 <b>My bash code in 2007 :)</b>
 
-Open the terminal
+Open the terminal in linux or Macos
 
 Create a file called install.sh with the following command:
 
