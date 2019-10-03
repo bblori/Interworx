@@ -1,6 +1,6 @@
 # Ioncube Installation on Centos x64
 
-<b>My first bash code in 2007 :)</b>
+<b>My bash code in 2007 :)</b>
 
 Open the terminal
 
